@@ -16,3 +16,8 @@ To build up the Rae you need to print the following parts from release:
 * 1 x Pinion2.stl
 * 1 x rpicase.stl
 * 1 x top-case.stl
+* 1 x rack.stl
+* 1 x rs-cam-holder.stl
+* 1 x suction_holder_angular_compensation.stl
+* 1 x suction_holder_length_compensation.stl
+* 1 x vacuum_module_mount.stl
