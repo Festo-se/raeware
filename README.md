@@ -20,7 +20,7 @@ Rae is an __OpenSource__ based modular end-of-arm tool with integrated __eye-in-
 
 
 <a href="https://a360.co/3othDst">
-<img src="imgs\fusion360-webviewer.PNG" alt="Trulli" width="640" height="480"></a>
+<img src="imgs\fusion360-webviewer.PNG" alt="Fusion360-Webviewer" width="640"></a>
 
 [>> Fusion 360 - WebViewer](https://a360.co/3othDst)
 
