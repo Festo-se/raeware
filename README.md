@@ -5,8 +5,6 @@ Rae is an __OpenSource__ based modular end-of-arm tool with integrated __eye-in-
 ## [Table of content](#table-of-content)
 
 - [Base System](#base-system)
-  - [Realsense](#realsense)
-  - [Kinect](#kinect)
 - [Available Modules](#available-modules)
   - [Perception](#perception)
   - [Radialgrippers](#radialgrippers)
@@ -15,13 +13,17 @@ Rae is an __OpenSource__ based modular end-of-arm tool with integrated __eye-in-
 - [Exploded view](#exploded-view)
 - [Assembly guide](#assembly-guide)
 - [Electrical Circuit](#electrical-circuit)
+- [Credits](#credits)
 
 
 # Base System
-## Realsense
-<iframe src="https://myhub.autodesk360.com/ue2aa8d0a/shares/public/SH56a43QTfd62c1cd96853919e44e662e399?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## Kinect
+
+<a href="https://a360.co/3othDst">
+<img src="imgs\fusion360-webviewer.PNG" alt="Trulli" width="640" height="480"></a>
+
+[>> Fusion 360 - WebViewer](https://a360.co/3othDst)
+
 
 # Available Modules
 ## Perception
@@ -45,8 +47,14 @@ Rae is an __OpenSource__ based modular end-of-arm tool with integrated __eye-in-
 * Including screw types
 * 
 # Assembly guide
-+ show order of assmebly
++ show order of assembly
 + 
 # Electrical Circuit
 + electrical drawing with wire
 + draw.io action
+
+# Credits
+Roman Baur:
+* Modular Concept
+* Mechanical-, Electrical- and Software-Design
+* 
