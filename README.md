@@ -1,60 +1,59 @@
-## About Rae
-Rae is an __OpenSource__ based modular end-of-arm tool with integrated __eye-in-hand__ depth camera which enables researchers, AI-enthusiasts and engineers to develop and deploy autonomous applications for robot manipulators. The 6 different module-types helps to solve various modern challenges in Robotics as for example bin-picking, packaging or tool-based automation. 
-> For more information about the system visit our [homepage](#).
+![](imgs/rae-header-image.PNG)
+>[>> Fusion 360 - WebViewer](https://a360.co/2W6mHcp)
+
+## About the Rae Project
+Rae stays for *Robot-autonomy-
+effector* and is an __OpenSource__ based modular end-of-arm tool with integrated __eye-in-hand__ depth camera which enables researchers, AI-enthusiasts and engineers to develop and deploy autonomous applications for robot manipulators. The 6 different module-types helps to solve various modern challenges in Robotics as for example bin-picking, packaging or tool-based automation. The design originates from the Bachelor-thesis created by Roman Baur and was further developed at the university of applied science in Esslingen.
 
 ## [Table of content](#table-of-content)
 
-- [Base System](#base-system)
-- [Available Modules](#available-modules)
-  - [Perception](#perception)
-  - [Radialgrippers](#radialgrippers)
-  - [Flanges](#flanges)
-  - [suction module](#suction-module)
-- [Exploded view](#exploded-view)
-- [Assembly guide](#assembly-guide)
-- [Electrical Circuit](#electrical-circuit)
+- [Getting Started](#getting-started)
+- [Base-System](#base-system)
+- [Realsense System](#realsense-system)
+- [Kinect System](#kinect-system)
+- [Gripper Fingers](#gripper-fingers)
+- [Flanges](#flanges)
+- [Tools](#tools)
 - [Credits](#credits)
 
+# Getting Started
+What is to do to get an working rae?
 
-# Base System
+1. Download the .stl files from the [base-system](base-system) including drive and guide parts
+2. Choose whether you want a [realsense](perception-modules/realsense) or a [kinect](perception-modules/kinect) perception system and download the according .stl files
+3. Print it with a high-quality SLS-Printer
+4. Assemble the the printed parts and the electric components with the appropriate screws
+5. Download the Image for the embedded linux called raeos and flash it on an SD-Card.Then boot the system.
+6. Install the raeros-client on your host system and setup an ethernet or wireless based connection to the rae-system.
+
+> Although everything is well documented we recommend [themakeservice](#) if you want to avoid any complications.
+
+# Base-System
+![](imgs/rae-base-system.png)
+
+> [>> base-system](base-system)
+
+# Realsense System
+
+![](imgs/rae-realsense-system.PNG)
+
+> [>> realsense-system](perception-modules/realsense)
 
 
-<a href="https://a360.co/3othDst">
-<img src="imgs\fusion360-webviewer.PNG" alt="Fusion360-Webviewer" width="640"></a>
+# Kinect System
+![](imgs/rae-kinect-system.PNG)
+> [>> kinect-system](perception-modules/realsense)
 
-[>> Fusion 360 - WebViewer](https://a360.co/3othDst)
-
-
-# Available Modules
-## Perception
-[Image Realsense variant]
-[Image Kinect variant]
-## Radialgrippers
+# Gripper Fingers
 [Image which shows both gripper lengths]
 
-## Flanges
+# Flanges
 [Flange for Franka Panda, mounted]
 
-## suction module
-[Image]
-* link to aliexpress site
-* 
-
-# Exploded view
-* Base 
-* Radialgrippers
-* Vacuum Module
-* Including screw types
-* 
-# Assembly guide
-+ show order of assembly
-+ 
-# Electrical Circuit
-+ electrical drawing with wire
-+ draw.io action
+# Tools
 
 # Credits
-Roman Baur:
+Mady by Roman Baur:
 * Modular Concept
 * Mechanical-, Electrical- and Software-Design
 * 
