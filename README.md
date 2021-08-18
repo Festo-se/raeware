@@ -3,7 +3,7 @@
 
 ## About the Rae Project
 Rae stays for *Robot-autonomy-
-effector* and is an __OpenSource__ based modular end-of-arm tool with integrated __eye-in-hand__ depth camera which enables researchers, AI-enthusiasts and engineers to develop and deploy autonomous applications for robot manipulators. The 6 different module-types helps to solve various modern challenges in Robotics as for example bin-picking, packaging or tool-based automation. The design originates from the Bachelor-thesis created by Roman Baur and was further developed at the university of applied science in Esslingen.
+effector* and is an __OpenSource__ based modular end-of-arm tool with integrated __eye-in-hand__ depth camera which enables researchers, AI-enthusiasts and engineers to develop and deploy autonomous applications for robot manipulators. The 6 different module-types helps to solve various modern challenges in Robotics as for example bin-picking, packaging or tool-based automation. The design originates from the Bachelor-thesis created by Roman Baur in cooporation with Festo SE & Co. KG and the University of applied Sciences in Esslingen.
 
 ## [Table of content](#table-of-content)
 
