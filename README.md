@@ -57,7 +57,20 @@ What is to do to get an working rae?
 # Tools
 
 # Credits
-Mady by Roman Baur:
+Bachelors thesis and extension by Roman Baur:
 * Modular Concept
 * Mechanical-, Electrical- and Software-Design
-* 
+
+Supervisors Festo SE & Co. KG:
+Daniel Brauchle, Dionysios Satikidis, Timo Schwarzer
+
+Supervisors HS Esslingen:
+Bachelors Thesis RAE v 1.0:
+Prof. Clemens Klöck, Dionysios Satikidis
+
+RAE v 2.0
+Prof. Thao Dang
+
+
+
+
