@@ -12,6 +12,8 @@ effector* and is an __OpenSource__ based modular end-of-arm tool with integrated
 - [Realsense System](#realsense-system)
 - [Kinect System](#kinect-system)
 - [Gripper Fingers](#gripper-fingers)
+  - [Festo DAHS-80 Radialgripper](#festo-dahs-80-radialgripper)
+  - [Festo DAHS-120 Radialgripper](#festo-dahs-120-radialgripper)
 - [Flanges](#flanges)
 - [Tools](#tools)
 - [Credits](#credits)
@@ -20,10 +22,10 @@ effector* and is an __OpenSource__ based modular end-of-arm tool with integrated
 What is to do to get an working rae?
 
 1. Download the .stl files from the [base-system](base-system) including drive and guide parts
-2. Choose whether you want a [realsense](perception-modules/realsense) or a [kinect](perception-modules/kinect) perception system and download the according .stl files
-3. Print it with a high-quality SLS-Printer
-4. Assemble the the printed parts and the electric components with the appropriate screws
-5. Download the Image for the embedded linux called raeos and flash it on an SD-Card.Then boot the system.
+2. Choose whether you want a [realsense](perception-modules/realsense) or a [kinect](perception-modules/kinect) perception system and download the according .stl files.
+3. Print it with a high-quality SLS-Printer.
+4. Assemble the the printed parts and the electric components with the appropriate screws.
+5. Download the Image for the embedded linux called raeos and flash it on an SD-Card. Then boot the system.
 6. Install the raeros-client on your host system and setup an ethernet or wireless based connection to the rae-system.
 
 > Although everything is well documented we recommend [themakeservice](#) if you want to avoid any complications.
@@ -42,11 +44,13 @@ What is to do to get an working rae?
 
 # Kinect System
 ![](imgs/rae-kinect-system.PNG)
-> [>> kinect-system](perception-modules/realsense)
+> [>> kinect-system](perception-modules/kinect)
 
 # Gripper Fingers
-[Image which shows both gripper lengths]
-
+## Festo DAHS-80 Radialgripper
+![](gripper-modules/radialgripper80/imgs/radialgripper80-with-base.PNG)
+## Festo DAHS-120 Radialgripper
+![](gripper-modules/radialgripper120/imgs/radialgripper120-with-base.PNG)
 # Flanges
 [Flange for Franka Panda, mounted]
 
