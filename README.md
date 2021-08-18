@@ -1,4 +1,4 @@
-![](imgs\rae-header-image.PNG)
+![](imgs/rae-header-image.PNG)
 >[>> Fusion 360 - WebViewer](https://a360.co/3othDst)
 
 ## About Rae
@@ -22,8 +22,8 @@ Rae is an __OpenSource__ based modular end-of-arm tool with integrated __eye-in-
 
 
 # Base-System
-![](imgs\rae-base-system.png)
-![](base-system\lynxmotion-system\imgs\exploded-view-mechanical-parts.PNG)
+![](imgs/rae-base-system.png)
+![](base-system/lynxmotion-system/imgs/exploded-view-mechanical-parts.PNG)
 
 > [>> Parts](#)
 
@@ -36,14 +36,14 @@ Rae is an __OpenSource__ based modular end-of-arm tool with integrated __eye-in-
 
 # Realsense System
 
-![](imgs\rae-realsense-system.PNG)
+![](imgs/rae-realsense-system.PNG)
 Depth Kamera D435i | [specs](https://www.intel.de/content/www/de/de/products/sku/190004/intel-realsense-depth-camera-d435i/specifications.html)
 
 > more info [here](perception-modules/realsense)
 
 
 # Kinect System
-![](imgs\rae-kinect-system.PNG)
+![](imgs/rae-kinect-system.PNG)
 
 # Gripper Fingers
 [Image which shows both gripper lengths]
