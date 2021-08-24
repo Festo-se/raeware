@@ -19,16 +19,20 @@ effector* and is an __OpenSource__ based modular end-of-arm tool with integrated
 - [Credits](#credits)
 
 # Getting Started
-What is to do to get an working rae?
+
+How I get an working rae:
 
 1. Download the .stl files from the [base-system](base-system) including drive and guide parts
 2. Choose whether you want a [realsense](perception-modules/realsense) or a [kinect](perception-modules/kinect) perception system and download the according .stl files.
 3. Print it with a high-quality SLS-Printer.
 4. Assemble the the printed parts and the electric components with the appropriate screws.
 5. Download the Image for the embedded linux called raeos and flash it on an SD-Card. Then boot the system.
-6. Install the raeros-client on your host system and setup an ethernet or wireless based connection to the rae-system.
 
-> Although everything is well documented we recommend [themakeservice](#) if you want to avoid any complications.
+
+> If you want to have an assembled and preinstalled rae, please contact [themakeservice](#)
+
+How to set up my rae:
+1. Install the raeros-client on your host system and setup an ethernet or wireless based connection to the rae-system.
 
 # Base-System
 ![](imgs/rae-base-system.png)
