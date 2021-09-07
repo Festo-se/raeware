@@ -22,6 +22,7 @@ effector* and is an __OpenSource__ based modular end-of-arm tool with integrated
   - [Angular compensation](#angular-compensation)
   - [Linear compensation](#linear-compensation)
 - [Electrical Circuit](#electrical-circuit)
+- [Cable-set](#cable-set)
 - [Credits](#credits)
   - [Bachelors thesis and extension by Roman Baur:](#bachelors-thesis-and-extension-by-roman-baur)
   - [Supervisors Festo SE & Co. KG:](#supervisors-festo-se--co-kg)
@@ -94,8 +95,10 @@ How to set up my rae:
 
 
 # Electrical Circuit
-![](imgs\electrical-circuit.png)
+![](imgs/electrical-circuit.png)
 
+# Cable-set
+![](imgs/cable-set.png)
 # Credits
 
 ## Bachelors thesis and extension by Roman Baur:
