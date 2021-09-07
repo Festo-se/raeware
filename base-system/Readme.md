@@ -23,15 +23,15 @@
 | M5 Square-Nut DIN 557 | Flanges | 2 | [Wuerth](https://eshop.wuerth.de/Produktkategorien/DIN-557-Stahl-5-verzinkt/14013512180106.cyid/1401.cgid/de/DE/EUR/?CampaignName=SR001&CatalogCategoryRef=14013512180106%40WuerthGroup-Wuerth-1401&SelectedFilterAttribut=%255B%255D) |
 
 
-## Electrical Circuit
-+ electrical drawing with wire
-+ draw.io action
-
-## Cable Set
 
 # Drive Parts
+![](drive-parts/drive-parts.png)
+> [>> drive-parts](drive-parts)
 
 # Metal Guide Parts
+![](guide-parts-metal/guide-parts-metal.png)
+> [>> metal-guide-parts](guide-parts-metal)
 
 # Nylon Guide Parts
-
+![](guide-parts-nylon/guide-parts-nylon.png)
+> [>> metal-guide-nylon](guide-parts-nylon)
