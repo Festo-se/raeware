@@ -21,7 +21,14 @@ effector* and is an __OpenSource__ based modular end-of-arm tool with integrated
 - [Suction modules](#suction-modules)
   - [Angular compensation](#angular-compensation)
   - [Linear compensation](#linear-compensation)
+- [Electrical Circuit](#electrical-circuit)
+- [Cable-set](#cable-set)
 - [Credits](#credits)
+  - [Bachelors thesis and extension by Roman Baur:](#bachelors-thesis-and-extension-by-roman-baur)
+  - [Supervisors Festo SE & Co. KG:](#supervisors-festo-se--co-kg)
+  - [Supervisors HS Esslingen:](#supervisors-hs-esslingen)
+    - [Bachelors Thesis RAE v 1.0:](#bachelors-thesis-rae-v-10)
+    - [RAE v 2.0:](#rae-v-20)
 
 # Getting Started
 
@@ -87,6 +94,11 @@ How to set up my rae:
 > [>> linear-compensation-module](tool-modules/suction-holders/linear-compensation)
 
 
+# Electrical Circuit
+![](imgs/electrical-circuit.png)
+
+# Cable-set
+![](imgs/cable-set.png)
 # Credits
 
 ## Bachelors thesis and extension by Roman Baur:
